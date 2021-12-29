@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1640772641, 129552841]
+build_end_time: [1640772653, 6543159]
+inputs:
+  ? "/Users/oryonivanov/Documents/GitHub/Schoolbox-Application/Debugging - Testing Instances/test4/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1640772614, 617216825]
+  "/Users/oryonivanov/Documents/GitHub/Schoolbox-Application/Debugging - Testing Instances/test4/macos/Runner/AppDelegate.swift": [1639011687, 0]
+  ? "/Users/oryonivanov/Documents/GitHub/Schoolbox-Application/Debugging - Testing Instances/test4/macos/Runner/MainFlutterWindow.swift"
+  : [1639011687, 0]
